@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479861432983",
+    "project_id": "recipenotification-c1045",
+    "storage_bucket": "recipenotification-c1045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479861432983:android:05e65622e21b77baea3fd2",
+        "android_client_info": {
+          "package_name": "com.datnt184"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479861432983-kgmnq4ck7ak25k2n5i9alcgdn1slieqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBanfWghPnsbNm2L5_vejaq0TTnc2GecW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479861432983-kgmnq4ck7ak25k2n5i9alcgdn1slieqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

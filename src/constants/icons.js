@@ -1,0 +1,18 @@
+export const icons = {
+  LOGO: require('../assets/icons/Logo.png'),
+  TAB1: require('../assets/icons/Tab1.png'),
+  TAB2: require('../assets/icons/Tab2.png'),
+  TAB3: require('../assets/icons/Tab3.png'),
+  NOTIFICATIONS: require('../assets/icons/Notifications.png'),
+  MESSAGES: require('../assets/icons/Messages.png'),
+  LOADING: require('../assets/icons/loading.json'),
+  LOG_OUT: require('../assets/icons/Logout.png'),
+  RIGHT: require('../assets/icons/Right.png'),
+  EDIT: require('../assets/icons/Edit.png'),
+  SEARCH: require('../assets/icons/Search.png'),
+  FILTER: require('../assets/icons/Filter.png'),
+  CLOSE: require('../assets/icons/Close.png'),
+  RADIO_BUTTON: require('../assets/icons/RadioButton.png'),
+  REMOVE: require('../assets/icons/Remove.png'),
+  UPLOAD: require('../assets/icons/Upload.png'),
+};
